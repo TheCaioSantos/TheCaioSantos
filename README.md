@@ -4,6 +4,11 @@
 </div>
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00000080&center=true&width=435&lines=Software+Developer)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCaioSantos&hide=html&layout=compact&theme=default" width="300">
 </div>
 
