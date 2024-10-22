@@ -11,9 +11,6 @@
 </div>
 
 
-![Snake animation](https://github.com/TheCaioSantos/TheCaioSantos/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 
