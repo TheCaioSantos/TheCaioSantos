@@ -1,4 +1,9 @@
 <div align="center">
+
+## 👋 Hi there! I'm Caio Santos
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCaioSantos&hide=html&layout=compact&theme=default" width="300">
 </div>
 
